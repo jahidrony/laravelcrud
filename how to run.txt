@@ -1,0 +1,4 @@
+1.run xammp
+2.create datebase name "laravelcrud"
+3.then open powershell amd make command "php artisan migrate"
+4.write on a server http://localhost/laravelcrud/
